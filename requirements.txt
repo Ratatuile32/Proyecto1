@@ -1,0 +1,7 @@
+Paquetes requeridos:
+virtualenv
+Flask         
+Flask-mysqldb 
+pip           
+setuptools    
+wheel         
