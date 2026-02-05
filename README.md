@@ -30,14 +30,13 @@ python .\src\app.py
 ```
 Para probarlo yo use thunder client el cual me permite enviar un comando http especifico al momento de entrar en la URL 
 # ![alt text](image.png)
-
-# ![alt text](image-2.png)
 En esta imagen usamos el comando GET en la URL de los empleados para obtener el API con la lista de empleados
-# ![alt text](image-3.png) 
+# ![alt text](image-2.png)
 En esta imagen usamos el comando GET en la URL de los empleados/654789 en donde 654789 es el codigo personal de uno de los empleados y funciona de la misma manera para todos los empleados
-# ![alt text](image-4.png) ![alt text](image-5.png)
+# ![alt text](image-3.png) 
 En esta imagen usamos el comando POST en la URL de los empleados para subir la informacion de una nueva empleada
-# ![alt text](image-6.png) ![alt text](image-7.png)
+# ![alt text](image-4.png) ![alt text](image-5.png)
 En esta imagen usamos el comando PUT en la URL del empleado para modificar la informacion
-# ![alt text](image-8.png) ![alt text](image-9.png)
+# ![alt text](image-6.png) ![alt text](image-7.png)
 En esta imagen usamos el comando DELETE en la URL del empleado para eliminar su informacion
+# ![alt text](image-8.png) ![alt text](image-9.png)
