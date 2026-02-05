@@ -2,7 +2,7 @@
 ## Descripcion
 Este programa solo funciona como un backend que genera API rest de una base de datos en forma de json
 ## Instalacion
-Para el uso de este servidor recomiendo el uso de un entorno virtula usando "virtualenv".
+Para el uso de este servidor recomiendo el uso de un entorno virtual usando "virtualenv".
 Usaremos pip para instalarlo en la terminal de visualcode
 ```bash
 pip install virtualenv
